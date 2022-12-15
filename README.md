@@ -1,7 +1,7 @@
 # File Compression Project 
 File compression is a project made using Huffman encoding Technique. The various data structures used are map, heaps, tree etc.
 This compression file system can also be used for encryption-decryption purposes. This Project basically contracts the size of the file by the use of compression technique . This will be helpful in applications where we have large sized files but we need to compress them for our purposes. 
-**Mainly, it is made for use with .txt files. 
+**Mainly, it is made for use with .txt files.** 
 
 ## About Huffman Encoding
 This problem is that of finding the minimum length bit string which can be used to encode a string of symbols. One application is text compression:
