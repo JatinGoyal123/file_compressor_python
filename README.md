@@ -21,3 +21,6 @@ For example:
 2.
 ![text](https://github.com/JatinGoyal123/file_zipper/blob/main/img2.png?raw=true)
 
+> Thank You for visiting our repository. Do follow and Star my repository. 
+### Made with love by Jatin Goyal ☺️
+
